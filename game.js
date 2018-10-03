@@ -50,7 +50,7 @@ function draw() {
 
   }
   textSize(40);
-  fill(35, 134, 244);
+  fill(355, 255, 255);
 
   text("SCORE", 1150, 45)
   text(Player.score, 1199, 90)
